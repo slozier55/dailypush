@@ -8,3 +8,5 @@ git config --global user.email "EMAIL"
 git config --global user.name "YOUR NAME"
 git commit -m 'First commit.'
 git push origin master
+chmod +x daily.sh
+crontab crontab.txt
