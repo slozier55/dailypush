@@ -5,8 +5,11 @@ If you want to appear that you are a very active user in GitHub then this is the
 Execute the following commands:
 
 > cd ~
+
 > git clone https://github.com/toxtli/dailypush.git
+
 > cd dailypush
+
 > nano run.sh
 
 Replace the capital words with your data, save and execute the following command.
@@ -25,4 +28,5 @@ Replace the capital words with your data, save and execute the following command
 .
 .
 -e .
+.
 .
