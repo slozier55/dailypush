@@ -12,14 +12,15 @@ Execute the following commands:
 
 > nano run.sh
 
-> chmod +x run.sh
+Replace the capitalized words with your data, save and execute the following commands.
 
-Replace the capitalized words with your data, save and execute the following command.
+> chmod +x run.sh
 
 > ./run.sh
 
 Every dot below this line is the number of times that the tool has been executed. A push is executed every 15 minutes.
 
+.
 .
 .
 .
