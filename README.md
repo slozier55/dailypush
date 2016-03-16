@@ -18,8 +18,9 @@ Replace the capitalized words with your data, save and execute the following com
 
 > ./run.sh
 
-Every dot below this line is the number of times that the tool has been executed. A push is executed every 5 minutes.
+Every dot below this line is the number of times that the tool has been executed. A push is executed every minute.
 
+.
 .
 .
 .
