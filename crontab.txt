@@ -1,2 +1,2 @@
-*/5 * * * * ~/dailypush/daily.sh
+*/1 * * * * ~/dailypush/daily.sh
 
