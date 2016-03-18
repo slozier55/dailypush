@@ -1,5 +1,5 @@
 cd ~/dailypush/
-for i in {1..5}
+for i in {1..10}
 do
 echo "." >> README.md
 git add *
