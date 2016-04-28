@@ -1,6 +1,6 @@
 # Daily GitHub push
 
-If you want to appear that you are a very active user in GitHub then this is the rigth tool for you created by toxtli.
+If you want to appear that you are a very active user in GitHub then this is the right tool for you created by toxtli.
 
 Execute the following commands:
 
